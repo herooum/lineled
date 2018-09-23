@@ -2,7 +2,7 @@
   
 
 function send_LINE($msg){
- $access_token = 'line api'; 
+ $access_token = 'yKcQEnQ2du585lD1l6X3ofyJQr5IkgSMsviy9ZIfgmvIwpvMblMelalzrhVMFNrQU4N96lfMqFtBqbhjJ4jx8EagxdxDNP71eG22KxEQOuvquQ18S/5F3XqI3ih1WdJtj2Zyk6sAJFqqS8RLXL9n4AdB04t89/1O/w1cDnyilFU='; 
 
   $messages = [
         'type' => 'text',
